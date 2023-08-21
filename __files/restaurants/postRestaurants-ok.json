@@ -1,0 +1,17 @@
+{
+   "id": 8,
+   "name": "Canibal Royal",
+   "timetable": "19.00-23.00",
+   "type": "hamburguesas",
+   "reservePrice": 0.0,
+   "veganMenu": true,
+   "website": "canibal.com",
+   "address": {
+      "id": 5,
+      "type": "avenida",
+      "name": "Madrid",
+      "number": 10,
+      "postalCode": 50004,
+      "city": "Zaragoza"
+   }
+}

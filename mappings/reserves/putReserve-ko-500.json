@@ -1,0 +1,14 @@
+{
+  "priority": 2,
+  "request": {
+    "method": "PUT",
+    "urlPattern": "/reserves/500"
+  },
+  "response": {
+    "status": 500,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "reserves/putReserve-ko-500.json"
+  }
+}

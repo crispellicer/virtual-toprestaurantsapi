@@ -1,0 +1,39 @@
+{
+  "id": 31,
+  "people": 3,
+  "tables": 1,
+  "reserveDate": "2023-05-14",
+  "allergic": false,
+  "restaurant": {
+    "id": 4,
+    "name": "Kanalla",
+    "timetable": "12.00-17.00",
+    "type": "cocina creativa",
+    "reservePrice": 20.0,
+    "veganMenu": false,
+    "website": "kanalla.com",
+    "address": {
+      "id": 1,
+      "type": "calle",
+      "name": "Mayor",
+      "number": 1,
+      "postalCode": 50001,
+      "city": "Zaragoza"
+    }
+  },
+  "customer": {
+    "id": 2,
+    "name": "Pepe",
+    "surname": "Lopez",
+    "telephone": "555555555",
+    "birthDate": "1996-03-17",
+    "vip": false
+  },
+  "shift": {
+    "id": 1,
+    "name": "lunch",
+    "startTime": "13:00:00",
+    "endingTime": "15:00:00"
+  },
+  "paid": true
+}

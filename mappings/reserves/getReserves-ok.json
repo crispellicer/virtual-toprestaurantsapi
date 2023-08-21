@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/reserves"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "reserves/getReserves-ok.json"
+  }
+}

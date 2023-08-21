@@ -1,0 +1,14 @@
+{
+  "priority": 2,
+  "request": {
+    "method": "GET",
+    "url": "/restaurants/404"
+  },
+  "response": {
+    "status": 404,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "restaurants/getRestaurant-ko-404.json"
+  }
+}

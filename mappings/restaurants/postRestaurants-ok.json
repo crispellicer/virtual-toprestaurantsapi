@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/restaurants"
+  },
+  "response": {
+    "status": 201,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "restaurants/postRestaurants-ok.json"
+  }
+}

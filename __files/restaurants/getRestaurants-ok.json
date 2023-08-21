@@ -1,0 +1,36 @@
+[
+  {
+    "id": 4,
+    "name": "Kanalla",
+    "timetable": "12.00-17.00",
+    "type": "cocina creativa",
+    "reservePrice": 20.0,
+    "veganMenu": false,
+    "website": "kanalla.com",
+    "address": {
+      "id": 1,
+      "type": "calle",
+      "name": "Mayor",
+      "number": 1,
+      "postalCode": 50001,
+      "city": "Zaragoza"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Asador Pasiego",
+    "timetable": "12.00-17.00",
+    "type": "asador",
+    "reservePrice": 20.0,
+    "veganMenu": false,
+    "website": "asadorpasiego.com",
+    "address": {
+      "id": 4,
+      "type": "calle",
+      "name": "Porvenir",
+      "number": 25,
+      "postalCode": 44500,
+      "city": "Andorra"
+    }
+  }
+]

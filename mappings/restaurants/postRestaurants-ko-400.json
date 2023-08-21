@@ -1,0 +1,20 @@
+{
+  "priority": 1,
+  "request": {
+    "method": "POST",
+    "url": "/restaurants",
+    "bodyPatterns": [
+      {
+        "equalToJson": "{  \"timetable\": \"12.00-17.00\",  \"type\": \"asador\",  \"reservePrice\": 20.0,  \"veganMenu\": false, \"website\": \"hola.com\", \"address\": 2}",
+        "jsonCompareMode": "STRICT"
+      }
+    ]
+  },
+  "response": {
+    "status": 400,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "players/postPlayers-KO-400.json"
+  }
+}
