@@ -1,14 +1,14 @@
 [
   {
-    "id": 10,
-    "people": 5,
-    "reserveDate": "2023-09-10",
-    "isPaid": true
+    "id": 30,
+    "people": 40,
+    "reserveDate": "2023-06-16",
+    "paid": true
   },
   {
-    "id": 24,
-    "people": 4,
-    "reserveDate": "2023-09-15",
-    "isPaid": false
+    "id": 31,
+    "people": 3,
+    "reserveDate": "2023-05-14",
+    "paid": true
   }
 ]

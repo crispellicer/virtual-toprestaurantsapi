@@ -2,7 +2,7 @@
   "priority": 3,
   "request": {
     "method": "PUT",
-    "url": "/reserves/5"
+    "url": "/reserves/31"
   },
   "response": {
     "status": 200,
