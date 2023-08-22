@@ -1,14 +1,14 @@
 {
   "priority": 1,
   "request": {
-    "method": "DELETE",
-    "url": "/reserves/500"
+    "method": "GET",
+    "url": "/addresses/500"
   },
   "response": {
     "status": 500,
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "reserves/deleteReserve-ko-500.json"
+    "bodyFileName": "addresses/getAddress-ko-500.json"
   }
 }

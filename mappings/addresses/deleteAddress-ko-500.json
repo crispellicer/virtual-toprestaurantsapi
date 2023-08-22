@@ -1,14 +1,14 @@
 {
-  "priority": 2,
+  "priority": 1,
   "request": {
     "method": "DELETE",
-    "url": "/restaurants/404"
+    "url": "/addresses/500"
   },
   "response": {
-    "status": 404,
+    "status": 500,
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "restaurants/deleteRestaurant-ko-404.json"
+    "bodyFileName": "addresses/deleteAddress-ko-500.json"
   }
 }
