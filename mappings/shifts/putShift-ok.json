@@ -1,14 +1,14 @@
 {
-  "priority": 2,
+  "priority": 3,
   "request": {
     "method": "PUT",
-    "urlPattern": "/customers/500"
+    "url": "/shifts/3"
   },
   "response": {
-    "status": 500,
+    "status": 200,
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "customers/putCustomer-ko-500.json"
+    "bodyFileName": "shifts/putShifts-ok.json"
   }
 }

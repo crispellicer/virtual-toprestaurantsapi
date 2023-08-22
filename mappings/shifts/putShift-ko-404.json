@@ -1,14 +1,14 @@
 {
   "priority": 2,
   "request": {
-    "method": "GET",
-    "url": "/reserves/404"
+    "method": "PUT",
+    "urlPattern": "/shifts/404"
   },
   "response": {
     "status": 404,
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "reserves/getReserve-ko-404.json"
+    "bodyFileName": "shifts/putShift-ko-404.json"
   }
 }
