@@ -9,6 +9,6 @@
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "restaurants/putRestaurants-ko-500.json"
+    "bodyFileName": "restaurants/putRestaurant-ko-500.json"
   }
 }

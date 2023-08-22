@@ -1,14 +1,13 @@
 {
-  "priority": 3,
   "request": {
-    "method": "PUT",
-    "url": "/reserves/5"
+    "method": "GET",
+    "url": "/customers"
   },
   "response": {
     "status": 200,
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "reserves/putReserve-ok.json"
+    "bodyFileName": "customers/getCustomers-ok.json"
   }
 }

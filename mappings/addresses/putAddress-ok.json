@@ -9,6 +9,6 @@
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "addresses/putAddresses-ok.json"
+    "bodyFileName": "addresses/putAddress-ok.json"
   }
 }

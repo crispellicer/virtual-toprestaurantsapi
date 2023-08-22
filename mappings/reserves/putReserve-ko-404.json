@@ -9,6 +9,6 @@
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "reserves/putReserves-ko-404.json"
+    "bodyFileName": "reserves/putReserve-ko-404.json"
   }
 }

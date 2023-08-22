@@ -1,14 +1,14 @@
 {
   "priority": 2,
   "request": {
-    "method": "PUT",
-    "urlPattern": "/restaurnats/404"
+    "method": "DELETE",
+    "url": "/customers/404"
   },
   "response": {
     "status": 404,
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "restaurnats/putRestaurnat-ko-404.json"
+    "bodyFileName": "customers/deleteCustomer-ko-404.json"
   }
 }

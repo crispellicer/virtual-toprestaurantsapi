@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Cristina",
+    "surname": "Pellicer Garcia",
+    "telephone": "978884433",
+    "birthDate": "1996-03-17",
+    "vip": true
+  },
+  {
+    "id": 2,
+    "name": "Pepe",
+    "surname": "Lopez",
+    "telephone": "555555555",
+    "birthDate": "1996-03-17",
+    "vip": false
+  }
+]
