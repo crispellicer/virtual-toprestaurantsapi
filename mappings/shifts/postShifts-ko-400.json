@@ -5,7 +5,7 @@
     "url": "/shifts",
     "bodyPatterns": [
       {
-        "equalToJson": "{  \"name\": \"lunch\",  \"satartTime\": \"10:00\"}",
+        "equalToJson": "{  \"name\": \"lunch\",  \"startTime\": \"10:00\"}",
         "jsonCompareMode": "STRICT"
       }
     ]

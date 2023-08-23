@@ -9,6 +9,6 @@
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "shifts/putShifts-ok.json"
+    "bodyFileName": "shifts/putShift-ok.json"
   }
 }

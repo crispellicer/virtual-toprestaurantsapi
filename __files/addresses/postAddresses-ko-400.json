@@ -1,4 +1,4 @@
 {
   "code": 400,
-  "message": "Bad Rquest. Indica el nombre de la calle."
+  "message": "Bad Request. Indica el nombre de la calle."
 }

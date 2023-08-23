@@ -1,4 +1,4 @@
 {
   "code": 400,
-  "message": "Bad Rquest. Indica fecha de reserva."
+  "message": "Bad Request. Indica fecha de reserva."
 }

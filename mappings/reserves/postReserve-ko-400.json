@@ -5,7 +5,7 @@
     "url": "/restaurants/5/reserves",
     "bodyPatterns": [
       {
-        "equalToJson": "{  \"people\": 7,  \"tables\": 1,  \"isPaid\": true,  \"allergic\": false, \"customer\": 2, \"shift\": 2}",
+        "equalToJson": "{  \"people\": 7,  \"tables\": 1,  \"paid\": true,  \"allergic\": false, \"customer\": 2, \"shift\": 2}",
         "jsonCompareMode": "STRICT"
       }
     ]
